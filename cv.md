@@ -38,3 +38,23 @@ I dream to participate in projects useful to society, ready to study additional 
 * Slack
 
 ***
+### Code example:
+
+The purpose of this code is to perform spam filtering: if the entered string contains the words "viagra" and/or "xxx", they are replaced by "***".
+
+```javascript
+let textString = '';
+
+function censor (){
+    let comment = document.querySelector('input[name="newComment"]').value;
+    let new1 = comment.replace(/viagra/g, '***');
+    let new2 = new1.replace(/xxx/g, '***');
+
+       commentsList.innerHTML = textString; 
+       console.log(textString);
+}
+
+button.addEventListener('click', censor);
+```
+
+***
