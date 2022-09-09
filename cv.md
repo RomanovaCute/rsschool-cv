@@ -33,3 +33,8 @@ I dream to participate in projects useful to society, ready to study additional 
 * React, react-router, MobX
 
 ***
+### Tools
+* Visual Studio Code
+* Slack
+
+***
