@@ -22,5 +22,14 @@ In addition, 2 years was a tutor in chemistry for schoolchildren, I have the ski
 
 I dream to participate in projects useful to society, ready to study additional technology stacks. I am open to work as a mentor.
 
+***
+
+### Skills
+* HTML5, CSS3
+* Bootstrap
+* Flexbox, Grid
+* Figma (basic level)
+* JavaScript, ES6+
+* React, react-router, MobX
 
 ***
